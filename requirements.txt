@@ -1,0 +1,7 @@
+SpeechRecognition
+pyttsx3
+PyAudio
+langchain-openai 
+tiktoken 
+chromadb 
+langchain
